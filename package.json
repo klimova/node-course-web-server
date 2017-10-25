@@ -11,10 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "hbs": "^4.0.0",
-    "fs": "^5.3.0"
-  },
-  "engines": {
-    "node": "8.6.0"
-    }
+    "hbs": "^4.0.0"
+  }
 }
